@@ -18,10 +18,14 @@ A lightweight, real-time web application to transform Markdown syntax into clean
 - **Frontend:** HTML5, CSS3 (Grid & Flexbox)
 - **Logic:** Vanilla JavaScript (ES6+ Regular Expressions)
 
+
+<img width="764" height="508" alt="image" src="https://github.com/user-attachments/assets/801273f3-d402-4778-bc7d-59e3ac2fb01a" />
+
+
 ## 🚀 How to Use
 1. Clone this repository:
    ```bash
    git clone [https://github.com/Hemant-Ballia/Build-a-Markdown-to-HTML-Converter.git](https://github.com/Hemant-Ballia/Build-a-Markdown-to-HTML-Converter.git)
 
-   <img width="764" height="508" alt="image" src="https://github.com/user-attachments/assets/b5cabef0-1538-43ed-9cd4-44c38438f5f0" />
+ 
 
